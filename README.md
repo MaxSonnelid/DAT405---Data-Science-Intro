@@ -1,7 +1,7 @@
 # DAT405---Data-Science-Intro
-All assignments done in the course 'Introduction to Data Science &amp; AI' (DAT405) at Chalmers.
+All projects are created in connection to the course 'Introduction to Data Science &amp; AI' (DAT405) at Chalmers University of Technology, Fall Semester 2020.
 
-All done together with Eric Johansson.
+The author is me, Max Sonnelid, in collaboration with Eric Johansson.
 
 Dataframe Transformations (Assignment 1)
 * Keywords: scatter plot, transformation of dataframes
